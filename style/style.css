@@ -14,7 +14,7 @@ body {
 
 
 .bg-image {
-  background-image: url(./assets/Path15.webp);
+  background-image: url(../assets/Path15.webp);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
